@@ -1,4 +1,8 @@
-# Proj2
+# ---------------------------------------------------------------------------
+# Latinos education and achievement analysis 
+# Proj grouping
+# Data source : U.S. citizens were collected in 2000 by the U.S. Census Bureau.
+# --------------------------------------------------------------------------
 
 # fetch data 
 library(dplyr)
